@@ -2,7 +2,7 @@
 
 #### A Motivated Software Engineer and Full-Stack Developer based in Bahrain, with a Bachelor’s Degree in Software Engineering. I have hands-on experience building web applications, responsive interfaces, and database-connected systems. 
 
-#### I am skilled in HTML, CSS, JavaScript, MERN Stack, Python, SQL, and PostgreSQL, with additional training through the General Assembly Software Engineering Full-Time Bootcamp. 
+#### I am skilled in HTML, CSS, JavaScript, MERN Stack, EJS, Python, Django, SQL, and PostgreSQL, with additional training through the General Assembly Software Engineering Full-Time Bootcamp. 
 
 #### Strong communicator and fast learner with a teamwork-driven approach, a commitment to continuous improvement, and the ability to adapt quickly in technical and client-facing environments.  I’m always looking for new challenges, continuously learning, and using every opportunity to improve myself.
 
