@@ -1,10 +1,10 @@
 # Hello, My Name is ***Ammar Osama*** 👋🏻
 
-#### I am a committed, consistent and motivated Full-Stack Developer that graduated from the University of Bahrain with a Bachelor's in Software Engineering.
+### A Motivated Software Engineer and Full-Stack Developer based in Bahrain, with a Bachelor’s Degree in Software Engineering. I have hands-on experience building web applications, responsive interfaces, and database-connected systems. 
 
-####  I build polished, and practical web applications using modern JavaScript, HTML, and CSS. I enjoy bringing ideas to life through interactive, responsive user interfaces and solving real-world problems and challenges.
+### I am skilled in HTML, CSS, JavaScript, MERN Stack, Python, SQL, and PostgreSQL, with additional training through the General Assembly Software Engineering Full-Time Bootcamp. 
 
-#### I’m always looking for new challenges, continuously learning, and using every opportunity to improve myself.
+### Strong communicator and fast learner with a teamwork-driven approach, a commitment to continuous improvement, and the ability to adapt quickly in technical and client-facing environments.  I’m always looking for new challenges, continuously learning, and using every opportunity to improve myself.
 
 ## **Technologies And Frameworks** 
 
